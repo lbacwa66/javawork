@@ -1,0 +1,34 @@
+body{
+    background-image: url('3.jpg');
+    background-repeat: no;
+    background-attachment: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul {
+    list-style-type: decimal;
+    background-color: rgba(255, 102, 204, 0.8);
+    width: 500px;
+}
+li {
+    background-color: rgba(255, 0, 102, 0.5);
+    padding: 10px;
+}
+li text{
+    padding-right: 50px;
+    font-size: 30px;
+}
+button {
+    border-style: none;
+    background-color:  rgb(200, 200, 200);
+    width: 100px;
+    height: 30px;
+}
+li button {
+    float: right;
+    padding: 10px;
+    background-color: aqua;
+}
+
+#content {
+    height: 30px;
+}
